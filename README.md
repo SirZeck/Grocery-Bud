@@ -10,4 +10,4 @@ Here's a simple CRUD app to store your grocery list.
 
 Here is the same project created using React framework.
 [Github](https://github.com/SirZeck/Grocery-Bud-React-App)
-[Link](hhttps://your-grocery-bud.netlify.app/)
+[Link](https://your-grocery-bud.netlify.app/)
